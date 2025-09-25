@@ -1,2 +1,2 @@
-# baywa-coding-challenge-backend
+# BayWa Coding Challendge Backend
 BayWa Coding Challenge Backend
