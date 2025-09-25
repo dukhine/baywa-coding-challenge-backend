@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Entwickeln Sie ein Spring Boot Backend für ein Newsletter-Registrierungssystem. Das Backend läuft in einem Docker-Container und kommuniziert über eine REST-API mit einem bereits existierenden Frontend und verwaltet Newsletter-Anmeldungen.
+Entwickeln Sie ein Spring Boot Backend für ein Newsletter-Registrierungssystem. Das Backend läuft in einem Docker-Container, verwaltet Newsletter-Anmeldungen und kommuniziert über eine REST-API mit einem bereits existierenden Frontend.
 
 ## Aufgabenstellung
 
